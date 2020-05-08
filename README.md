@@ -108,7 +108,7 @@ Python application for optimizing package delivery according to time and distanc
  <br>
   The result of truck 1's delivery route can be seen above.
   
- <br>
+ <br><br>
  <strong> Truck 2 Delivery Route </strong>
  <br>
  <kbd>
@@ -117,7 +117,7 @@ Python application for optimizing package delivery according to time and distanc
  <br>
  The result of truck 2's delivery route can be seen above.
  
- <br>
+ <br><br>
  <strong> Status Report at 10:00 AM </strong>
  <br>
  <kbd>
@@ -126,7 +126,7 @@ Python application for optimizing package delivery according to time and distanc
  <br>
  The status of all packages at 10:00AM can be seen above.
  
- <br>
+ <br><br>
  <strong> Status Report at 13:00 PM </strong>
  <br>
  <kbd>
