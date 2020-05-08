@@ -142,8 +142,8 @@ Python application for optimizing package delivery according to time and distanc
  The status of all packages at 13:00PM can be seen above.
  
   <br><br>
+  <p align="center">
   <a href="#top">Back To Top</a>
-  
 </p>
 
 <h1 id="results"> Results </h1>
