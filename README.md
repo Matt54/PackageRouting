@@ -58,17 +58,25 @@ Python application for optimizing package delivery according to time and distanc
 </p>
 
 <h1 id="package_data"> Package Data </h1>
-<p>
- <br>
 <p align="center">
- <a href="#top">Back To Top</a>
+  <kbd>
+    <img src="MediaFiles/Packages.png" width = "600">
+  </kbd>
+ <br><br>
+  All the necessary package information is inputted into the program as the following .csv file.
+  <br><br>
+  <a href="#top">Back To Top</a>
 </p>
 
 <h1 id="location_data"> Location Data </h1>
-<p>
- <br>
 <p align="center">
- <a href="#top">Back To Top</a>
+  <kbd>
+    <img src="MediaFiles/Locations.png" width = "600">
+  </kbd>
+ <br><br>
+  All the necessary location information is inputted into the program as the following .csv file.
+  <br><br>
+  <a href="#top">Back To Top</a>
 </p>
 
 <h1 id="algorithm"> Algorithm / Delivery Walkthrough </h1>
