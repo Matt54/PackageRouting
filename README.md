@@ -63,7 +63,7 @@ Python application for optimizing package delivery according to time and distanc
     <img src="MediaFiles/Packages.png" width = "1000">
   </kbd>
  <br><br>
-  All the necessary package information is inputted into the program as the following .csv file.
+  All the necessary package information is inputted into the program as the above .csv file.
   <br><br>
   <a href="#top">Back To Top</a>
 </p>
@@ -74,16 +74,28 @@ Python application for optimizing package delivery according to time and distanc
     <img src="MediaFiles/Locations.png" width = "1000">
   </kbd>
  <br><br>
-  All the necessary location information is inputted into the program as the following .csv file.
+  All the necessary location information is inputted into the program as the above .csv file.
   <br><br>
   <a href="#top">Back To Top</a>
 </p>
 
 <h1 id="algorithm"> Algorithm / Delivery Walkthrough </h1>
-<p>
- <br>
 <p align="center">
- <a href="#top">Back To Top</a>
+  <kbd>
+    <img src="MediaFiles/Truck1.png" width = "600">
+  </kbd>
+ <br><br>
+ The reports table view displays the number of each appointment type broken up by month. <br>
+ Additional reports are available that show the schedule and total the number of hours for each consultant.
+  <br><br>
+ <kbd>
+    <img src="MediaFiles/Truck2.png" width = "600">
+  </kbd>
+ <br><br>
+ The reports table view displays the number of each appointment type broken up by month. <br>
+ Additional reports are available that show the schedule and total the number of hours for each consultant.
+  <br><br>
+  <a href="#top">Back To Top</a>
 </p>
 
 <h1 id="results"> Results </h1>
