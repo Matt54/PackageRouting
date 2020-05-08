@@ -81,6 +81,24 @@ Python application for optimizing package delivery according to time and distanc
 
 <h1 id="algorithm"> Algorithm / Delivery Walkthrough </h1>
 <p align="center">
+ 
+ <strong> Core Algorithm </strong>
+ <ol>
+  <li>All packages with deadlines are loaded on to the first truck.</li>
+  <li>If there is still room, packages going to the same destination as a loaded package gets loaded on the truck.</li>
+  <li>The current truck location is then analyzed to determine the closest delivery location for a loaded package.</li>
+  <li>The truck travels to the location and unloads the package (Steps 3 and 4 repeat).</li>
+  <li>Once new packages with deadlines are available, the truck returns to the hub to load them.</li>
+  <li>Truck 1 delivers all the remaining packages that it has loaded.</li>
+  <li>Truck 2 begins loading all packages at the hub until it is full.</li>
+  <li>It then uses the earlier described greedy algorithm to delivery its packages.</li>
+  <li>When truck 2 is empty, it returns to the hub for more packages.</li>
+  <li>Once all packages are delivered, the delivery process is complete.</li>
+ </ol>
+ <br>
+
+
+ <br>
   <strong> Truck 1 Delivery Route </strong>
   <br>
   <kbd>
