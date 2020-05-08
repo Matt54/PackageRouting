@@ -30,7 +30,7 @@ Python application for delivering optimizing package delivery according to time 
 <h1 id="user_interface"> User Interface </h1><br>
 <p align="center">
   <kbd>
-    <img src="MediaFiles/Video.gif" width="300">
+    <img src="MediaFiles/Video.gif" width="600">
   </kbd>
   <br><br>
   The user interface  animatings the delivery process. <br>
