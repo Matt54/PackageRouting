@@ -28,7 +28,7 @@ Python application for optimizing package delivery according to time and distanc
  <a href="#top">Back To Top</a>
 </p>
 
-<h1 id="user_interface"> User Interface </h1><br>
+<h1 id="user_interface"> User Interface </h1>
 <p align="center">
   <kbd>
     <img src="MediaFiles/Video.gif" width="600">
