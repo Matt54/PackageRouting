@@ -60,7 +60,7 @@ Python application for optimizing package delivery according to time and distanc
 <h1 id="package_data"> Package Data </h1>
 <p align="center">
   <kbd>
-    <img src="MediaFiles/Packages.png" width = "600">
+    <img src="MediaFiles/Packages.png" width = "1000">
   </kbd>
  <br><br>
   All the necessary package information is inputted into the program as the following .csv file.
@@ -71,7 +71,7 @@ Python application for optimizing package delivery according to time and distanc
 <h1 id="location_data"> Location Data </h1>
 <p align="center">
   <kbd>
-    <img src="MediaFiles/Locations.png" width = "600">
+    <img src="MediaFiles/Locations.png" width = "1000">
   </kbd>
  <br><br>
   All the necessary location information is inputted into the program as the following .csv file.
