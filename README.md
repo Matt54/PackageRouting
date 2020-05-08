@@ -33,8 +33,8 @@ Python application for delivering optimizing package delivery according to time 
     <img src="MediaFiles/Video.gif" width="600">
   </kbd>
   <br><br>
-  The user interface  animatings the delivery process. <br>
-  Additionally, it allows the user to customize the package status checks, add additional packages, and toggle animation options. <br>
+  The user interface animatings the delivery process. <br>
+  It also allows the user to customize the package status checks, add additional packages, and toggle animation options. <br>
   The user interface was created using Tkinter.
   <br><br>
   <a href="#top">Back To Top</a>
