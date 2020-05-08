@@ -1,0 +1,464 @@
+Truck 1 has loaded package 1, it is now holding 1 packages
+Truck 1 has loaded package 13, it is now holding 2 packages
+Truck 1 has loaded package 14, it is now holding 3 packages
+Truck 1 has loaded package 15, it is now holding 4 packages
+Truck 1 has loaded package 16, it is now holding 5 packages
+Truck 1 has loaded package 20, it is now holding 6 packages
+Truck 1 has loaded package 29, it is now holding 7 packages
+Truck 1 has loaded package 30, it is now holding 8 packages
+Truck 1 has loaded package 31, it is now holding 9 packages
+Truck 1 has loaded package 34, it is now holding 10 packages
+Truck 1 has loaded package 37, it is now holding 11 packages
+Truck 1 has loaded package 40, it is now holding 12 packages
+Truck 1 has loaded package 39, it is now holding 13 packages
+Truck 1 has loaded package 21, it is now holding 14 packages
+Truck 1 has loaded package 7, it is now holding 15 packages
+Truck 1 has loaded package 19, it is now holding 16 packages
+Truck 1 is full
+
+Truck 1 has delivered package 14 to 4300 S 1300 E, Millcreek, UT, 84117
+Delivery took about 6 minutes, current time is now 08:06:20
+Delivery distance was 1.9, current total miles: 2
+Total number of packages delivered: 1
+There are 15 packages left on truck 1.
+
+Truck 1 has delivered package 15 to 4580 S 2300 E, Holladay, UT, 84117
+Delivery took about 7 minutes, current time is now 08:13:00
+Delivery distance was 2.0, current total miles: 4
+Total number of packages delivered: 2
+There are 14 packages left on truck 1.
+
+Truck 1 has delivered package 16 to 4580 S 2300 E, Holladay, UT, 84117
+Delivery took about 0 minutes, current time is now 08:13:00
+Delivery distance was 0.0, current total miles: 4
+Total number of packages delivered: 3
+There are 13 packages left on truck 1.
+
+Truck 1 has delivered package 34 to 4580 S 2300 E, Holladay, UT, 84117
+Delivery took about 0 minutes, current time is now 08:13:00
+Delivery distance was 0.0, current total miles: 4
+Total number of packages delivered: 4
+There are 12 packages left on truck 1.
+
+Truck 1 has delivered package 20 to 3595 Main St, Salt Lake City, UT, 84115
+Delivery took about 17 minutes, current time is now 08:29:40
+Delivery distance was 5.0, current total miles: 9
+Total number of packages delivered: 5
+There are 11 packages left on truck 1.
+
+Truck 1 has delivered package 21 to 3595 Main St, Salt Lake City, UT, 84115
+Delivery took about 0 minutes, current time is now 08:29:40
+Delivery distance was 0.0, current total miles: 9
+Total number of packages delivered: 6
+There are 10 packages left on truck 1.
+
+Truck 1 has delivered package 31 to 3365 S 900 W, Salt Lake City, UT, 84119
+Delivery took about 5 minutes, current time is now 08:35:00
+Delivery distance was 1.6, current total miles: 10
+Total number of packages delivered: 7
+There are 9 packages left on truck 1.
+
+Truck 1 has delivered package 40 to 380 W 2880 S, Salt Lake City, UT, 84115
+Delivery took about 6 minutes, current time is now 08:40:40
+Delivery distance was 1.7, current total miles: 12
+Total number of packages delivered: 8
+There are 8 packages left on truck 1.
+
+Truck 1 has delivered package 1 to 195 W Oakland Ave, Salt Lake City, UT, 84115
+Delivery took about 4 minutes, current time is now 08:44:20
+Delivery distance was 1.1, current total miles: 13
+Total number of packages delivered: 9
+There are 7 packages left on truck 1.
+
+Truck 1 has delivered package 29 to 1330 2100 S, Salt Lake City, UT, 84106
+Delivery took about 9 minutes, current time is now 08:53:40
+Delivery distance was 2.8, current total miles: 16
+Total number of packages delivered: 10
+There are 6 packages left on truck 1.
+
+Truck 1 has delivered package 7 to 1330 2100 S, Salt Lake City, UT, 84106
+Delivery took about 0 minutes, current time is now 08:53:40
+Delivery distance was 0.0, current total miles: 16
+Total number of packages delivered: 11
+There are 5 packages left on truck 1.
+
+FLAG IS SET TO RETURN TO HUB NEXT FOR DELAYED PACKAGES
+
+Printing report for time: 09:00 AM 
+Package id: 1, Address: 195 W Oakland Ave, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84115, Weight: 21 kg, Status: Delivered
+Package id: 2, Address: 2530 S 500 E, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84106, Weight: 44 kg, Status: At Hub
+Package id: 3, Address: 233 Canyon Rd, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84103, Weight: 2 kg, Status: At Hub
+Package id: 4, Address: 380 W 2880 S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84115, Weight: 4 kg, Status: At Hub
+Package id: 5, Address: 410 S State St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84111, Weight: 5 kg, Status: At Hub
+Package id: 6, Address: 3060 Lester St, Deadline: 10:30 AM, City: West Valley City, Zip Code: 84119, Weight: 88 kg, Status: At Hub
+Package id: 7, Address: 1330 2100 S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84106, Weight: 8 kg, Status: Delivered
+Package id: 8, Address: 300 State St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84103, Weight: 9 kg, Status: At Hub
+Package id: 9, Address: 410 S State St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84111, Weight: 2 kg, Status: At Hub
+Package id: 10, Address: 600 E 900 South, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84105, Weight: 1 kg, Status: At Hub
+Package id: 11, Address: 2600 Taylorsville Blvd, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84118, Weight: 1 kg, Status: At Hub
+Package id: 12, Address: 3575 W Valley Central Station bus Loop, Deadline: 23:59 PM, City: West Valley City, Zip Code: 84119, Weight: 1 kg, Status: At Hub
+Package id: 13, Address: 2010 W 500 S, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84104, Weight: 2 kg, Status: In Route
+Package id: 14, Address: 4300 S 1300 E, Deadline: 10:30 AM, City: Millcreek, Zip Code: 84117, Weight: 88 kg, Status: Delivered
+Package id: 15, Address: 4580 S 2300 E, Deadline: 09:00 AM, City: Holladay, Zip Code: 84117, Weight: 4 kg, Status: Delivered
+Package id: 16, Address: 4580 S 2300 E, Deadline: 10:30 AM, City: Holladay, Zip Code: 84117, Weight: 88 kg, Status: Delivered
+Package id: 17, Address: 3148 S 1100 W, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84119, Weight: 2 kg, Status: At Hub
+Package id: 18, Address: 1488 4800 S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84123, Weight: 6 kg, Status: At Hub
+Package id: 19, Address: 177 W Price Ave, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84115, Weight: 37 kg, Status: In Route
+Package id: 20, Address: 3595 Main St, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84115, Weight: 37 kg, Status: Delivered
+Package id: 21, Address: 3595 Main St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84115, Weight: 3 kg, Status: Delivered
+Package id: 22, Address: 6351 South 900 East, Deadline: 23:59 PM, City: Murray, Zip Code: 84121, Weight: 2 kg, Status: At Hub
+Package id: 23, Address: 5100 South 2700 West, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84118, Weight: 5 kg, Status: At Hub
+Package id: 24, Address: 5025 State St, Deadline: 23:59 PM, City: Murray, Zip Code: 84107, Weight: 7 kg, Status: At Hub
+Package id: 25, Address: 5383 South 900 East #104, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84117, Weight: 7 kg, Status: At Hub
+Package id: 26, Address: 5383 South 900 East #104, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84117, Weight: 25 kg, Status: At Hub
+Package id: 27, Address: 1060 Dalton Ave S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84104, Weight: 5 kg, Status: At Hub
+Package id: 28, Address: 2835 Main St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84115, Weight: 7 kg, Status: At Hub
+Package id: 29, Address: 1330 2100 S, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84106, Weight: 2 kg, Status: Delivered
+Package id: 30, Address: 300 State St, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84103, Weight: 1 kg, Status: In Route
+Package id: 31, Address: 3365 S 900 W, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84119, Weight: 1 kg, Status: Delivered
+Package id: 32, Address: 3365 S 900 W, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84119, Weight: 1 kg, Status: At Hub
+Package id: 33, Address: 2530 S 500 E, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84106, Weight: 1 kg, Status: At Hub
+Package id: 34, Address: 4580 S 2300 E, Deadline: 10:30 AM, City: Holladay, Zip Code: 84117, Weight: 2 kg, Status: Delivered
+Package id: 35, Address: 1060 Dalton Ave S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84104, Weight: 88 kg, Status: At Hub
+Package id: 36, Address: 2300 Parkway Blvd, Deadline: 23:59 PM, City: West Valley City, Zip Code: 84119, Weight: 88 kg, Status: At Hub
+Package id: 37, Address: 410 S State St, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84111, Weight: 2 kg, Status: In Route
+Package id: 38, Address: 410 S State St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84111, Weight: 9 kg, Status: At Hub
+Package id: 39, Address: 2010 W 500 S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84104, Weight: 9 kg, Status: In Route
+Package id: 40, Address: 380 W 2880 S, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84115, Weight: 45 kg, Status: Delivered
+
+Truck 1 has delivered package 37 to 410 S State St, Salt Lake City, UT, 84111
+Delivery took about 14 minutes, current time is now 09:08:00
+Delivery distance was 4.3, current total miles: 20
+Total number of packages delivered: 12
+
+Truck 1 has returned to hub.
+Driving took about 22 minutes, current time is now 09:29:40
+Driving distance was 6.5, current total miles: 27
+
+Truck 1 has loaded package 6, it is now holding 5 packages
+Truck 1 has loaded package 25, it is now holding 6 packages
+There are 6 packages left on truck 1.
+
+Truck 1 has delivered package 25 to 5383 South 900 East #104, Salt Lake City, UT, 84117
+Delivery took about 8 minutes, current time is now 09:37:40
+Delivery distance was 2.4, current total miles: 29
+Total number of packages delivered: 13
+There are 5 packages left on truck 1.
+
+Printing report for time: 10:00 AM 
+Package id: 1, Address: 195 W Oakland Ave, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84115, Weight: 21 kg, Status: Delivered
+Package id: 2, Address: 2530 S 500 E, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84106, Weight: 44 kg, Status: At Hub
+Package id: 3, Address: 233 Canyon Rd, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84103, Weight: 2 kg, Status: At Hub
+Package id: 4, Address: 380 W 2880 S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84115, Weight: 4 kg, Status: At Hub
+Package id: 5, Address: 410 S State St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84111, Weight: 5 kg, Status: At Hub
+Package id: 6, Address: 3060 Lester St, Deadline: 10:30 AM, City: West Valley City, Zip Code: 84119, Weight: 88 kg, Status: In Route
+Package id: 7, Address: 1330 2100 S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84106, Weight: 8 kg, Status: Delivered
+Package id: 8, Address: 300 State St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84103, Weight: 9 kg, Status: At Hub
+Package id: 9, Address: 410 S State St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84111, Weight: 2 kg, Status: At Hub
+Package id: 10, Address: 600 E 900 South, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84105, Weight: 1 kg, Status: At Hub
+Package id: 11, Address: 2600 Taylorsville Blvd, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84118, Weight: 1 kg, Status: At Hub
+Package id: 12, Address: 3575 W Valley Central Station bus Loop, Deadline: 23:59 PM, City: West Valley City, Zip Code: 84119, Weight: 1 kg, Status: At Hub
+Package id: 13, Address: 2010 W 500 S, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84104, Weight: 2 kg, Status: In Route
+Package id: 14, Address: 4300 S 1300 E, Deadline: 10:30 AM, City: Millcreek, Zip Code: 84117, Weight: 88 kg, Status: Delivered
+Package id: 15, Address: 4580 S 2300 E, Deadline: 09:00 AM, City: Holladay, Zip Code: 84117, Weight: 4 kg, Status: Delivered
+Package id: 16, Address: 4580 S 2300 E, Deadline: 10:30 AM, City: Holladay, Zip Code: 84117, Weight: 88 kg, Status: Delivered
+Package id: 17, Address: 3148 S 1100 W, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84119, Weight: 2 kg, Status: At Hub
+Package id: 18, Address: 1488 4800 S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84123, Weight: 6 kg, Status: At Hub
+Package id: 19, Address: 177 W Price Ave, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84115, Weight: 37 kg, Status: In Route
+Package id: 20, Address: 3595 Main St, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84115, Weight: 37 kg, Status: Delivered
+Package id: 21, Address: 3595 Main St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84115, Weight: 3 kg, Status: Delivered
+Package id: 22, Address: 6351 South 900 East, Deadline: 23:59 PM, City: Murray, Zip Code: 84121, Weight: 2 kg, Status: At Hub
+Package id: 23, Address: 5100 South 2700 West, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84118, Weight: 5 kg, Status: At Hub
+Package id: 24, Address: 5025 State St, Deadline: 23:59 PM, City: Murray, Zip Code: 84107, Weight: 7 kg, Status: At Hub
+Package id: 25, Address: 5383 South 900 East #104, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84117, Weight: 7 kg, Status: Delivered
+Package id: 26, Address: 5383 South 900 East #104, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84117, Weight: 25 kg, Status: At Hub
+Package id: 27, Address: 1060 Dalton Ave S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84104, Weight: 5 kg, Status: At Hub
+Package id: 28, Address: 2835 Main St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84115, Weight: 7 kg, Status: At Hub
+Package id: 29, Address: 1330 2100 S, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84106, Weight: 2 kg, Status: Delivered
+Package id: 30, Address: 300 State St, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84103, Weight: 1 kg, Status: In Route
+Package id: 31, Address: 3365 S 900 W, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84119, Weight: 1 kg, Status: Delivered
+Package id: 32, Address: 3365 S 900 W, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84119, Weight: 1 kg, Status: At Hub
+Package id: 33, Address: 2530 S 500 E, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84106, Weight: 1 kg, Status: At Hub
+Package id: 34, Address: 4580 S 2300 E, Deadline: 10:30 AM, City: Holladay, Zip Code: 84117, Weight: 2 kg, Status: Delivered
+Package id: 35, Address: 1060 Dalton Ave S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84104, Weight: 88 kg, Status: At Hub
+Package id: 36, Address: 2300 Parkway Blvd, Deadline: 23:59 PM, City: West Valley City, Zip Code: 84119, Weight: 88 kg, Status: At Hub
+Package id: 37, Address: 410 S State St, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84111, Weight: 2 kg, Status: Delivered
+Package id: 38, Address: 410 S State St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84111, Weight: 9 kg, Status: At Hub
+Package id: 39, Address: 2010 W 500 S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84104, Weight: 9 kg, Status: In Route
+Package id: 40, Address: 380 W 2880 S, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84115, Weight: 45 kg, Status: Delivered
+
+Truck 1 has delivered package 6 to 3060 Lester St, West Valley City, UT, 84119
+Delivery took about 24 minutes, current time is now 10:01:40
+Delivery distance was 7.2, current total miles: 36
+Total number of packages delivered: 14
+There are 4 packages left on truck 1.
+
+Truck 1 has delivered package 13 to 2010 W 500 S, Salt Lake City, UT, 84104
+Delivery took about 14 minutes, current time is now 10:15:40
+Delivery distance was 4.2, current total miles: 41
+Total number of packages delivered: 15
+There are 3 packages left on truck 1.
+
+Truck 1 has delivered package 39 to 2010 W 500 S, Salt Lake City, UT, 84104
+Delivery took about 0 minutes, current time is now 10:15:40
+Delivery distance was 0.0, current total miles: 41
+Total number of packages delivered: 16
+There are 2 packages left on truck 1.
+
+Truck 1 has delivered package 30 to 300 State St, Salt Lake City, UT, 84103
+Delivery took about 14 minutes, current time is now 10:29:40
+Delivery distance was 4.2, current total miles: 45
+Total number of packages delivered: 17
+There are 1 packages left on truck 1.
+
+Truck 1 has delivered package 19 to 177 W Price Ave, Salt Lake City, UT, 84115
+Delivery took about 25 minutes, current time is now 10:54:40
+Delivery distance was 7.5, current total miles: 52
+Total number of packages delivered: 18
+There are 0 packages left on truck 1.
+
+Truck 2 has loaded package 2, it is now holding 1 packages
+Truck 2 has loaded package 33, it is now holding 2 packages
+Truck 2 has loaded package 3, it is now holding 3 packages
+Truck 2 has loaded package 4, it is now holding 4 packages
+Truck 2 has loaded package 5, it is now holding 5 packages
+Truck 2 has loaded package 9, it is now holding 6 packages
+Truck 2 has loaded package 38, it is now holding 7 packages
+Truck 2 has loaded package 8, it is now holding 8 packages
+Truck 2 has loaded package 10, it is now holding 9 packages
+Truck 2 has loaded package 11, it is now holding 10 packages
+Truck 2 has loaded package 12, it is now holding 11 packages
+Truck 2 has loaded package 17, it is now holding 12 packages
+Truck 2 has loaded package 18, it is now holding 13 packages
+Truck 2 has loaded package 22, it is now holding 14 packages
+Truck 2 has loaded package 23, it is now holding 15 packages
+Truck 2 has loaded package 24, it is now holding 16 packages
+Truck 2 is full
+
+Truck 2 has delivered package 24 to 5025 State St, Murray, UT, 84107
+Delivery took about 8 minutes, current time is now 11:02:40
+Delivery distance was 2.4, current total miles: 55
+Total number of packages delivered: 19
+There are 15 packages left on truck 2.
+
+Truck 2 has delivered package 22 to 6351 South 900 East, Murray, UT, 84121
+Delivery took about 10 minutes, current time is now 11:13:00
+Delivery distance was 3.1, current total miles: 58
+Total number of packages delivered: 20
+There are 14 packages left on truck 2.
+
+Truck 2 has delivered package 2 to 2530 S 500 E, Salt Lake City, UT, 84106
+Delivery took about 20 minutes, current time is now 11:33:00
+Delivery distance was 6.0, current total miles: 64
+Total number of packages delivered: 21
+There are 13 packages left on truck 2.
+
+Truck 2 has delivered package 33 to 2530 S 500 E, Salt Lake City, UT, 84106
+Delivery took about 0 minutes, current time is now 11:33:00
+Delivery distance was 0.0, current total miles: 64
+Total number of packages delivered: 22
+There are 12 packages left on truck 2.
+
+Truck 2 has delivered package 4 to 380 W 2880 S, Salt Lake City, UT, 84115
+Delivery took about 6 minutes, current time is now 11:39:00
+Delivery distance was 1.8, current total miles: 66
+Total number of packages delivered: 23
+There are 11 packages left on truck 2.
+
+Truck 2 has delivered package 17 to 3148 S 1100 W, Salt Lake City, UT, 84119
+Delivery took about 7 minutes, current time is now 11:46:20
+Delivery distance was 2.2, current total miles: 68
+Total number of packages delivered: 24
+There are 10 packages left on truck 2.
+
+Truck 2 has delivered package 18 to 1488 4800 S, Salt Lake City, UT, 84123
+Delivery took about 14 minutes, current time is now 12:00:40
+Delivery distance was 4.3, current total miles: 72
+Total number of packages delivered: 25
+There are 9 packages left on truck 2.
+
+Truck 2 has delivered package 23 to 5100 South 2700 West, Salt Lake City, UT, 84118
+Delivery took about 2 minutes, current time is now 12:02:40
+Delivery distance was 0.6, current total miles: 73
+Total number of packages delivered: 26
+There are 8 packages left on truck 2.
+
+Truck 2 has delivered package 11 to 2600 Taylorsville Blvd, Salt Lake City, UT, 84118
+Delivery took about 1 minutes, current time is now 12:04:00
+Delivery distance was 0.4, current total miles: 73
+Total number of packages delivered: 27
+There are 7 packages left on truck 2.
+
+Truck 2 has delivered package 12 to 3575 W Valley Central Station bus Loop, West Valley City, UT, 84119
+Delivery took about 27 minutes, current time is now 12:31:00
+Delivery distance was 8.1, current total miles: 81
+Total number of packages delivered: 28
+There are 6 packages left on truck 2.
+
+Truck 2 has delivered package 10 to 600 E 900 South, Salt Lake City, UT, 84105
+Delivery took about 21 minutes, current time is now 12:51:40
+Delivery distance was 6.2, current total miles: 88
+Total number of packages delivered: 29
+There are 5 packages left on truck 2.
+
+Truck 2 has delivered package 5 to 410 S State St, Salt Lake City, UT, 84111
+Delivery took about 6 minutes, current time is now 12:57:40
+Delivery distance was 1.8, current total miles: 89
+Total number of packages delivered: 30
+There are 4 packages left on truck 2.
+
+Truck 2 has delivered package 9 to 410 S State St, Salt Lake City, UT, 84111
+Delivery took about 0 minutes, current time is now 12:57:40
+Delivery distance was 0.0, current total miles: 89
+Total number of packages delivered: 31
+There are 3 packages left on truck 2.
+
+Truck 2 has delivered package 38 to 410 S State St, Salt Lake City, UT, 84111
+Delivery took about 0 minutes, current time is now 12:57:40
+Delivery distance was 0.0, current total miles: 89
+Total number of packages delivered: 32
+There are 2 packages left on truck 2.
+
+Printing report for time: 13:00 PM 
+Package id: 1, Address: 195 W Oakland Ave, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84115, Weight: 21 kg, Status: Delivered
+Package id: 2, Address: 2530 S 500 E, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84106, Weight: 44 kg, Status: Delivered
+Package id: 3, Address: 233 Canyon Rd, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84103, Weight: 2 kg, Status: In Route
+Package id: 4, Address: 380 W 2880 S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84115, Weight: 4 kg, Status: Delivered
+Package id: 5, Address: 410 S State St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84111, Weight: 5 kg, Status: Delivered
+Package id: 6, Address: 3060 Lester St, Deadline: 10:30 AM, City: West Valley City, Zip Code: 84119, Weight: 88 kg, Status: Delivered
+Package id: 7, Address: 1330 2100 S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84106, Weight: 8 kg, Status: Delivered
+Package id: 8, Address: 300 State St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84103, Weight: 9 kg, Status: In Route
+Package id: 9, Address: 410 S State St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84111, Weight: 2 kg, Status: Delivered
+Package id: 10, Address: 600 E 900 South, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84105, Weight: 1 kg, Status: Delivered
+Package id: 11, Address: 2600 Taylorsville Blvd, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84118, Weight: 1 kg, Status: Delivered
+Package id: 12, Address: 3575 W Valley Central Station bus Loop, Deadline: 23:59 PM, City: West Valley City, Zip Code: 84119, Weight: 1 kg, Status: Delivered
+Package id: 13, Address: 2010 W 500 S, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84104, Weight: 2 kg, Status: Delivered
+Package id: 14, Address: 4300 S 1300 E, Deadline: 10:30 AM, City: Millcreek, Zip Code: 84117, Weight: 88 kg, Status: Delivered
+Package id: 15, Address: 4580 S 2300 E, Deadline: 09:00 AM, City: Holladay, Zip Code: 84117, Weight: 4 kg, Status: Delivered
+Package id: 16, Address: 4580 S 2300 E, Deadline: 10:30 AM, City: Holladay, Zip Code: 84117, Weight: 88 kg, Status: Delivered
+Package id: 17, Address: 3148 S 1100 W, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84119, Weight: 2 kg, Status: Delivered
+Package id: 18, Address: 1488 4800 S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84123, Weight: 6 kg, Status: Delivered
+Package id: 19, Address: 177 W Price Ave, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84115, Weight: 37 kg, Status: Delivered
+Package id: 20, Address: 3595 Main St, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84115, Weight: 37 kg, Status: Delivered
+Package id: 21, Address: 3595 Main St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84115, Weight: 3 kg, Status: Delivered
+Package id: 22, Address: 6351 South 900 East, Deadline: 23:59 PM, City: Murray, Zip Code: 84121, Weight: 2 kg, Status: Delivered
+Package id: 23, Address: 5100 South 2700 West, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84118, Weight: 5 kg, Status: Delivered
+Package id: 24, Address: 5025 State St, Deadline: 23:59 PM, City: Murray, Zip Code: 84107, Weight: 7 kg, Status: Delivered
+Package id: 25, Address: 5383 South 900 East #104, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84117, Weight: 7 kg, Status: Delivered
+Package id: 26, Address: 5383 South 900 East #104, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84117, Weight: 25 kg, Status: At Hub
+Package id: 27, Address: 1060 Dalton Ave S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84104, Weight: 5 kg, Status: At Hub
+Package id: 28, Address: 2835 Main St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84115, Weight: 7 kg, Status: At Hub
+Package id: 29, Address: 1330 2100 S, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84106, Weight: 2 kg, Status: Delivered
+Package id: 30, Address: 300 State St, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84103, Weight: 1 kg, Status: Delivered
+Package id: 31, Address: 3365 S 900 W, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84119, Weight: 1 kg, Status: Delivered
+Package id: 32, Address: 3365 S 900 W, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84119, Weight: 1 kg, Status: At Hub
+Package id: 33, Address: 2530 S 500 E, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84106, Weight: 1 kg, Status: Delivered
+Package id: 34, Address: 4580 S 2300 E, Deadline: 10:30 AM, City: Holladay, Zip Code: 84117, Weight: 2 kg, Status: Delivered
+Package id: 35, Address: 1060 Dalton Ave S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84104, Weight: 88 kg, Status: At Hub
+Package id: 36, Address: 2300 Parkway Blvd, Deadline: 23:59 PM, City: West Valley City, Zip Code: 84119, Weight: 88 kg, Status: At Hub
+Package id: 37, Address: 410 S State St, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84111, Weight: 2 kg, Status: Delivered
+Package id: 38, Address: 410 S State St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84111, Weight: 9 kg, Status: Delivered
+Package id: 39, Address: 2010 W 500 S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84104, Weight: 9 kg, Status: Delivered
+Package id: 40, Address: 380 W 2880 S, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84115, Weight: 45 kg, Status: Delivered
+
+Truck 2 has delivered package 3 to 233 Canyon Rd, Salt Lake City, UT, 84103
+Delivery took about 3 minutes, current time is now 13:01:00
+Delivery distance was 1.0, current total miles: 90
+Total number of packages delivered: 33
+There are 1 packages left on truck 2.
+
+Truck 2 has delivered package 8 to 300 State St, Salt Lake City, UT, 84103
+Delivery took about 2 minutes, current time is now 13:03:00
+Delivery distance was 0.6, current total miles: 91
+Total number of packages delivered: 34
+There are 0 packages left on truck 2.
+
+Truck 2 has returned to hub.
+Driving took about 25 minutes, current time is now 13:28:20
+Driving distance was 7.6, current total miles: 98
+
+Truck 2 has loaded package 26, it is now holding 1 packages
+Truck 2 has loaded package 27, it is now holding 2 packages
+Truck 2 has loaded package 28, it is now holding 3 packages
+Truck 2 has loaded package 32, it is now holding 4 packages
+Truck 2 has loaded package 35, it is now holding 5 packages
+Truck 2 has loaded package 36, it is now holding 6 packages
+
+Truck 2 has delivered package 26 to 5383 South 900 East #104, Salt Lake City, UT, 84117
+Delivery took about 8 minutes, current time is now 13:36:20
+Delivery distance was 2.4, current total miles: 101
+Total number of packages delivered: 35
+There are 5 packages left on truck 2.
+
+Truck 2 has delivered package 28 to 2835 Main St, Salt Lake City, UT, 84115
+Delivery took about 17 minutes, current time is now 13:53:40
+Delivery distance was 5.2, current total miles: 106
+Total number of packages delivered: 36
+There are 4 packages left on truck 2.
+
+Truck 2 has delivered package 32 to 3365 S 900 W, Salt Lake City, UT, 84119
+Delivery took about 10 minutes, current time is now 14:03:20
+Delivery distance was 2.9, current total miles: 109
+Total number of packages delivered: 37
+There are 3 packages left on truck 2.
+
+Truck 2 has delivered package 36 to 2300 Parkway Blvd, West Valley City, UT, 84119
+Delivery took about 11 minutes, current time is now 14:14:40
+Delivery distance was 3.4, current total miles: 112
+Total number of packages delivered: 38
+There are 2 packages left on truck 2.
+
+Truck 2 has delivered package 27 to 1060 Dalton Ave S, Salt Lake City, UT, 84104
+Delivery took about 9 minutes, current time is now 14:24:00
+Delivery distance was 2.8, current total miles: 115
+Total number of packages delivered: 39
+There are 1 packages left on truck 2.
+
+Truck 2 has delivered package 35 to 1060 Dalton Ave S, Salt Lake City, UT, 84104
+Delivery took about 0 minutes, current time is now 14:24:00
+Delivery distance was 0.0, current total miles: 115
+Total number of packages delivered: 40
+There are 0 packages left on truck 2.
+
+
+FINAL PRINTOUT:
+Package id: 1, Address: 195 W Oakland Ave, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84115, Weight: 21 kg, Status: Delivered
+Package id: 2, Address: 2530 S 500 E, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84106, Weight: 44 kg, Status: Delivered
+Package id: 3, Address: 233 Canyon Rd, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84103, Weight: 2 kg, Status: Delivered
+Package id: 4, Address: 380 W 2880 S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84115, Weight: 4 kg, Status: Delivered
+Package id: 5, Address: 410 S State St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84111, Weight: 5 kg, Status: Delivered
+Package id: 6, Address: 3060 Lester St, Deadline: 10:30 AM, City: West Valley City, Zip Code: 84119, Weight: 88 kg, Status: Delivered
+Package id: 7, Address: 1330 2100 S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84106, Weight: 8 kg, Status: Delivered
+Package id: 8, Address: 300 State St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84103, Weight: 9 kg, Status: Delivered
+Package id: 9, Address: 410 S State St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84111, Weight: 2 kg, Status: Delivered
+Package id: 10, Address: 600 E 900 South, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84105, Weight: 1 kg, Status: Delivered
+Package id: 11, Address: 2600 Taylorsville Blvd, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84118, Weight: 1 kg, Status: Delivered
+Package id: 12, Address: 3575 W Valley Central Station bus Loop, Deadline: 23:59 PM, City: West Valley City, Zip Code: 84119, Weight: 1 kg, Status: Delivered
+Package id: 13, Address: 2010 W 500 S, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84104, Weight: 2 kg, Status: Delivered
+Package id: 14, Address: 4300 S 1300 E, Deadline: 10:30 AM, City: Millcreek, Zip Code: 84117, Weight: 88 kg, Status: Delivered
+Package id: 15, Address: 4580 S 2300 E, Deadline: 09:00 AM, City: Holladay, Zip Code: 84117, Weight: 4 kg, Status: Delivered
+Package id: 16, Address: 4580 S 2300 E, Deadline: 10:30 AM, City: Holladay, Zip Code: 84117, Weight: 88 kg, Status: Delivered
+Package id: 17, Address: 3148 S 1100 W, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84119, Weight: 2 kg, Status: Delivered
+Package id: 18, Address: 1488 4800 S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84123, Weight: 6 kg, Status: Delivered
+Package id: 19, Address: 177 W Price Ave, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84115, Weight: 37 kg, Status: Delivered
+Package id: 20, Address: 3595 Main St, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84115, Weight: 37 kg, Status: Delivered
+Package id: 21, Address: 3595 Main St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84115, Weight: 3 kg, Status: Delivered
+Package id: 22, Address: 6351 South 900 East, Deadline: 23:59 PM, City: Murray, Zip Code: 84121, Weight: 2 kg, Status: Delivered
+Package id: 23, Address: 5100 South 2700 West, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84118, Weight: 5 kg, Status: Delivered
+Package id: 24, Address: 5025 State St, Deadline: 23:59 PM, City: Murray, Zip Code: 84107, Weight: 7 kg, Status: Delivered
+Package id: 25, Address: 5383 South 900 East #104, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84117, Weight: 7 kg, Status: Delivered
+Package id: 26, Address: 5383 South 900 East #104, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84117, Weight: 25 kg, Status: Delivered
+Package id: 27, Address: 1060 Dalton Ave S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84104, Weight: 5 kg, Status: Delivered
+Package id: 28, Address: 2835 Main St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84115, Weight: 7 kg, Status: Delivered
+Package id: 29, Address: 1330 2100 S, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84106, Weight: 2 kg, Status: Delivered
+Package id: 30, Address: 300 State St, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84103, Weight: 1 kg, Status: Delivered
+Package id: 31, Address: 3365 S 900 W, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84119, Weight: 1 kg, Status: Delivered
+Package id: 32, Address: 3365 S 900 W, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84119, Weight: 1 kg, Status: Delivered
+Package id: 33, Address: 2530 S 500 E, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84106, Weight: 1 kg, Status: Delivered
+Package id: 34, Address: 4580 S 2300 E, Deadline: 10:30 AM, City: Holladay, Zip Code: 84117, Weight: 2 kg, Status: Delivered
+Package id: 35, Address: 1060 Dalton Ave S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84104, Weight: 88 kg, Status: Delivered
+Package id: 36, Address: 2300 Parkway Blvd, Deadline: 23:59 PM, City: West Valley City, Zip Code: 84119, Weight: 88 kg, Status: Delivered
+Package id: 37, Address: 410 S State St, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84111, Weight: 2 kg, Status: Delivered
+Package id: 38, Address: 410 S State St, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84111, Weight: 9 kg, Status: Delivered
+Package id: 39, Address: 2010 W 500 S, Deadline: 23:59 PM, City: Salt Lake City, Zip Code: 84104, Weight: 9 kg, Status: Delivered
+Package id: 40, Address: 380 W 2880 S, Deadline: 10:30 AM, City: Salt Lake City, Zip Code: 84115, Weight: 45 kg, Status: Delivered
