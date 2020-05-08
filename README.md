@@ -82,6 +82,7 @@ Python application for optimizing package delivery according to time and distanc
 <h1 id="algorithm"> Algorithm / Delivery Walkthrough </h1>
 <p align="center">
   <strong> Truck 1 Delivery Route </strong>
+  <br>
   <kbd>
     <img src="MediaFiles/Truck1.png" width = "600">
   </kbd>
@@ -90,6 +91,7 @@ Python application for optimizing package delivery according to time and distanc
  Additional reports are available that show the schedule and total the number of hours for each consultant.
   <br><br>
  <strong> Truck 2 Delivery Route </strong>
+ <br>
  <kbd>
     <img src="MediaFiles/Truck2.png" width = "600">
   </kbd>
