@@ -80,9 +80,8 @@ Python application for optimizing package delivery according to time and distanc
 </p>
 
 <h1 id="algorithm"> Algorithm / Delivery Walkthrough </h1>
-
-<h2> Truck 1 Delivery Route </h2>
- <p align="center">
+<p align="center">
+  <strong> Truck 1 Delivery Route </strong>
   <kbd>
     <img src="MediaFiles/Truck1.png" width = "600">
   </kbd>
@@ -90,9 +89,7 @@ Python application for optimizing package delivery according to time and distanc
  The reports table view displays the number of each appointment type broken up by month. <br>
  Additional reports are available that show the schedule and total the number of hours for each consultant.
   <br><br>
- </p>
- <h2> Truck 2 Delivery Route </h2>
- <p align="center">
+ <strong> Truck 2 Delivery Route </strong>
  <kbd>
     <img src="MediaFiles/Truck2.png" width = "600">
   </kbd>
