@@ -45,7 +45,7 @@ Python application for delivering optimizing package delivery according to time 
 <h1 id="delivery_constraints"> Delivery Constraints and Assumptions </h1>
 <p>
  <ol>
-  <li>40 Packages must be delivered.</li>
+  <li>40 Packages must be delivered by the end of the day.</li>
   <li>2 trucks are available for delivery - they cannot travel more than a combined 140 miles.</li>
   <li>Each package has a destination that it must be delivered to and a deadline for when it must arrive by.</li>
   <li>Each location has a distance provided to each of the other possible locations available for delivery.</li>
