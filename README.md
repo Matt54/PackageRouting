@@ -21,7 +21,7 @@ Python application for delivering optimizing package delivery according to time 
   <li>User can check the status of package at a given time.</li>
   <li>User can add additional packages to any of the defined locations.</li>
   <li>Animations options can be adjusted to the user's preferences.</li>
-  <li>Space-time complexitiy is evaluated using Big O notation throughtout the entire program.</li>
+  <li>Space-time complexitiy is evaluated using Big O notation throughout the entire program (see code).</li>
  </ol>
  <br>
 <p align="center">
