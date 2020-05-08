@@ -4,7 +4,7 @@ Python application for optimizing package delivery according to time and distanc
 
 <h1 id="index"> Index </h1>
  <ol type="i">
-   <li><a href="#features">Features</a></li>
+   <li><a href="#features">Application Features</a></li>
    <li><a href="#user_interface">User Interface</a></li>
    <li><a href="#delivery_constraints">Delivery Constraints</a></li>
    <li><a href="#package_data">Package Input Data</a></li>
@@ -13,7 +13,7 @@ Python application for optimizing package delivery according to time and distanc
    <li><a href="#results">Results</a></li>
  </ol> 
  
-<h1 id="features"> Features </h1>
+<h1 id="features"> Application Features </h1>
 <p>
  <ul>
   <li>Graphical User interface that animates the delivery process.</li>
