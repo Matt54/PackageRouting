@@ -105,19 +105,38 @@ Python application for optimizing package delivery according to time and distanc
     <img src="MediaFiles/Truck1.png" width = "600">
   </kbd>
  <br><br>
- The reports table view displays the number of each appointment type broken up by month. <br>
- Additional reports are available that show the schedule and total the number of hours for each consultant.
-  <br><br>
+  The result of truck 1's delivery route can be seen above.
+  
+ <br><br>
  <strong> Truck 2 Delivery Route </strong>
  <br>
  <kbd>
     <img src="MediaFiles/Truck2.png" width = "600">
   </kbd>
  <br><br>
- The reports table view displays the number of each appointment type broken up by month. <br>
- Additional reports are available that show the schedule and total the number of hours for each consultant.
+ The result of truck 2's delivery route can be seen above.
+ 
+ <br><br>
+ <strong> Status Report at 10:00 AM </strong>
+ <br>
+ <kbd>
+    <img src="MediaFiles/Status_10AM.png" width = "600">
+  </kbd>
+ <br><br>
+ The status of all packages at 10:00AM can be seen above.
+ 
+ <br><br>
+ <strong> Status Report at 13:00 PM </strong>
+ <br>
+ <kbd>
+    <img src="MediaFiles/Status_13PM.png" width = "600">
+  </kbd>
+ <br><br>
+ The status of all packages at 13:00PM can be seen above.
+ 
   <br><br>
   <a href="#top">Back To Top</a>
+  
 </p>
 
 <h1 id="results"> Results </h1>
