@@ -151,7 +151,7 @@ Python application for optimizing package delivery according to time and distanc
 All constraints are respected, and the total mileage at the end of the delivery process is 115 miles. For a complete narrative of each step of the delivery process, see the following link: 
 </p>
 <a href="MediaFiles/ConsoleOutput.txt">Delivery Application Console Output</a>
- <br>
+<br><br>
 <p align="center">
  <a href="#top">Back To Top</a>
 </p>
