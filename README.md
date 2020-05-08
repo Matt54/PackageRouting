@@ -82,7 +82,7 @@ Python application for optimizing package delivery according to time and distanc
 <h1 id="algorithm"> Algorithm / Delivery Walkthrough </h1>
 <p align="center">
  
- <strong> Core Algorithm </strong>
+ <strong> Delivery Process (Greedy Algorithm) </strong>
  <ol>
   <li>All packages with deadlines are loaded on to the first truck.</li>
   <li>If there is still room, packages going to the same destination as a loaded package gets loaded on the truck.</li>
