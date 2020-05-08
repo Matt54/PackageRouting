@@ -1,6 +1,6 @@
 <h1 id="top"> Package Routing Application </h1>
 
-Python application for delivering optimizing package delivery according to time and distance constraints.
+Python application for optimizing package delivery according to time and distance constraints.
 
 <h1 id="index"> Index </h1>
  <ol type="i">
