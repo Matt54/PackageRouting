@@ -15,14 +15,14 @@ Python application for optimizing package delivery according to time and distanc
  
 <h1 id="features"> Features </h1>
 <p>
- <ol>
+ <ul>
   <li>Graphical User interface that animates the delivery process.</li>
   <li>Console readout to provide narrative of each delivery step.</li>
   <li>User can check the status of package at a given time.</li>
   <li>User can add additional packages to any of the defined locations.</li>
   <li>Animations options can be adjusted to the user's preferences.</li>
   <li>Space-time complexitiy is evaluated using Big O notation throughout the entire program (see code).</li>
- </ol>
+ </ul>
  <br>
 <p align="center">
  <a href="#top">Back To Top</a>
@@ -44,7 +44,7 @@ Python application for optimizing package delivery according to time and distanc
 
 <h1 id="delivery_constraints"> Delivery Constraints and Assumptions </h1>
 <p>
- <ol>
+ <ul>
   <li>40 Packages must be delivered by the end of the day.</li>
   <li>2 trucks are available for delivery - they cannot travel more than a combined 140 miles.</li>
   <li>Each truck can only hold 16 packages.</li>
@@ -52,7 +52,7 @@ Python application for optimizing package delivery according to time and distanc
   <li>Each location has a distance provided to each of the other possible locations available for delivery.</li>
   <li>Each truck drives an average of 18 miles per hour and spends no time loading or unloading packages.</li>
   <li>A package could be delayed, rerouted, or have other packages that it must travel with.</li>
- </ol>
+ </ul>
  <br>
 <p align="center">
  <a href="#top">Back To Top</a>
