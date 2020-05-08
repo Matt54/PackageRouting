@@ -6,9 +6,9 @@ Python application for delivering optimizing package delivery according to time 
  <ol type="i">
    <li><a href="#features">Features</a></li>
    <li><a href="#user_interface">User Interface</a></li>
-   <li><a href="#package_constraints">Package Constraints</a></li>
+   <li><a href="#delivery_constraints">Delivery Constraints</a></li>
    <li><a href="#package_data">Package Input Data</a></li>
-   <li><a href="#delivery_data">Location Data</a></li>
+   <li><a href="#location_data">Location Data</a></li>
    <li><a href="#algorithm">Algorithm Overview</a></li>
    <li><a href="#results">Results</a></li>
  </ol> 
@@ -41,3 +41,45 @@ Python application for delivering optimizing package delivery according to time 
   <br><br>
 </p>
 
+<h1 id="delivery_constraints"> Delivery Constraints and Assumptions </h1>
+<p>
+ <ol>
+  <li>40 Packages must be delivered.</li>
+  <li>2 trucks are available for delivery.</li>
+  <li>Each package has a destination that it must be delivered to and a deadline for when it must arrive by.</li>
+  <li>Each location has a distance provided to each of the other possible locations available for delivery.</li>
+  <li>Each truck drives an average of 18 miles per hour and spends no time loading or unloading packages.</li>
+  <li>A package could be delayed, rerouted, or have other packages that it must travel with.</li>
+ </ol>
+ <br>
+<p align="center">
+ <a href="#top">Back To Top</a>
+</p>
+
+<h1 id="package_data"> Package Data </h1>
+<p>
+ <br>
+<p align="center">
+ <a href="#top">Back To Top</a>
+</p>
+
+<h1 id="location_data"> Location Data </h1>
+<p>
+ <br>
+<p align="center">
+ <a href="#top">Back To Top</a>
+</p>
+
+<h1 id="algorithm"> Algorithm / Delivery Walkthrough </h1>
+<p>
+ <br>
+<p align="center">
+ <a href="#top">Back To Top</a>
+</p>
+
+<h1 id="results"> Results </h1>
+<p>
+ <br>
+<p align="center">
+ <a href="#top">Back To Top</a>
+</p>
