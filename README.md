@@ -81,7 +81,7 @@ Python application for optimizing package delivery according to time and distanc
 </p>
 
 <h1 id="algorithm"> Algorithm / Delivery Walkthrough </h1>
-<p align="center">
+
  
  <strong> Delivery Process (Greedy Algorithm) </strong>
  <ol>
@@ -98,7 +98,7 @@ Python application for optimizing package delivery according to time and distanc
  </ol>
  <br>
 
-
+<p align="center">
  <br>
   <strong> Truck 1 Delivery Route </strong>
   <br>
