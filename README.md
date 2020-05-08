@@ -33,7 +33,7 @@ Python application for optimizing package delivery according to time and distanc
   <kbd>
     <img src="MediaFiles/Video.gif" width="600">
   </kbd>
-  <br><br>
+  <br>
   The user interface animatings the delivery process. <br>
   It also allows the user to customize the package status checks, add additional packages, and toggle animation options. <br>
   The user interface was created using Tkinter.
@@ -62,7 +62,7 @@ Python application for optimizing package delivery according to time and distanc
   <kbd>
     <img src="MediaFiles/Packages.png" width = "1000">
   </kbd>
- <br><br>
+ <br>
   All the necessary package information is inputted into the program as the above .csv file.
   <br><br>
   <a href="#top">Back To Top</a>
@@ -73,7 +73,7 @@ Python application for optimizing package delivery according to time and distanc
   <kbd>
     <img src="MediaFiles/Locations.png" width = "1000">
   </kbd>
- <br><br>
+ <br>
   All the necessary location information is inputted into the program as the above .csv file.
   <br><br>
   <a href="#top">Back To Top</a>
@@ -104,7 +104,7 @@ Python application for optimizing package delivery according to time and distanc
   <kbd>
     <img src="MediaFiles/Truck1.png" width = "600">
   </kbd>
- <br><br>
+ <br>
   The result of truck 1's delivery route can be seen above.
   
  <br><br>
@@ -113,7 +113,7 @@ Python application for optimizing package delivery according to time and distanc
  <kbd>
     <img src="MediaFiles/Truck2.png" width = "600">
   </kbd>
- <br><br>
+ <br>
  The result of truck 2's delivery route can be seen above.
  
  <br><br>
@@ -122,7 +122,7 @@ Python application for optimizing package delivery according to time and distanc
  <kbd>
     <img src="MediaFiles/Status_10AM.png" width = "600">
   </kbd>
- <br><br>
+ <br>
  The status of all packages at 10:00AM can be seen above.
  
  <br><br>
@@ -131,7 +131,7 @@ Python application for optimizing package delivery according to time and distanc
  <kbd>
     <img src="MediaFiles/Status_13PM.png" width = "600">
   </kbd>
- <br><br>
+ <br>
  The status of all packages at 13:00PM can be seen above.
  
   <br><br>
@@ -141,6 +141,8 @@ Python application for optimizing package delivery according to time and distanc
 
 <h1 id="results"> Results </h1>
 <p>
+All constraints are respected, and the total mileage at the end of the delivery process is 115 miles. 
+</p>
  <br>
 <p align="center">
  <a href="#top">Back To Top</a>
