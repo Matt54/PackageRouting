@@ -47,6 +47,7 @@ Python application for optimizing package delivery according to time and distanc
  <ol>
   <li>40 Packages must be delivered by the end of the day.</li>
   <li>2 trucks are available for delivery - they cannot travel more than a combined 140 miles.</li>
+  <li>Each truck can only hold 16 packages.</li>
   <li>Each package has a destination that it must be delivered to and a deadline for when it must arrive by.</li>
   <li>Each location has a distance provided to each of the other possible locations available for delivery.</li>
   <li>Each truck drives an average of 18 miles per hour and spends no time loading or unloading packages.</li>
