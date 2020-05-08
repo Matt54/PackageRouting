@@ -28,7 +28,7 @@ Python application for optimizing package delivery according to time and distanc
  <a href="#top">Back To Top</a>
 </p>
 
-<h1 id="features"> Application Features </h1>
+<h1 id="notable_conepts"> Notable Concepts </h1>
 <p>
  <ul>
   <li>Space-time complexitiy is evaluated using Big O notation throughout the entire program (see code).</li>
