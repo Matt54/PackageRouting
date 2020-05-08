@@ -7,6 +7,7 @@ Python application for optimizing package delivery according to time and distanc
    <li><a href="#features">Application Features</a></li>
    <li><a href="#user_interface">User Interface</a></li>
    <li><a href="#delivery_constraints">Delivery Constraints</a></li>
+   <li><a href="#notable_concepts">Notable Concepts Involved</a></li>
    <li><a href="#package_data">Package Input Data</a></li>
    <li><a href="#location_data">Location Data</a></li>
    <li><a href="#algorithm">Algorithm Overview</a></li>
@@ -21,7 +22,19 @@ Python application for optimizing package delivery according to time and distanc
   <li>User can check the status of package at a given time.</li>
   <li>User can add additional packages to any of the defined locations.</li>
   <li>Animations options can be adjusted to the user's preferences.</li>
+ </ul>
+ <br>
+<p align="center">
+ <a href="#top">Back To Top</a>
+</p>
+
+<h1 id="features"> Application Features </h1>
+<p>
+ <ul>
   <li>Space-time complexitiy is evaluated using Big O notation throughout the entire program (see code).</li>
+  <li>A Greedy Algorithm was implemented for determining the next package delivery.</li>
+  <li>A hash table was implemented for storing the packages.</li>
+  <li>Tkinter was used to develop the GUI.</li>
  </ul>
  <br>
 <p align="center">
