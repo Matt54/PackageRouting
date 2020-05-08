@@ -150,7 +150,7 @@ Python application for optimizing package delivery according to time and distanc
 <p>
 All constraints are respected, and the total mileage at the end of the delivery process is 115 miles. 
 </p>
-[a relative link](MediaFiles/ConsoleOutput.txt)
+<a href="MediaFiles/ConsoleOutput.txt">This is a link</a>
  <br>
 <p align="center">
  <a href="#top">Back To Top</a>
