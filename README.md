@@ -31,7 +31,7 @@ Python application for optimizing package delivery according to time and distanc
 <h1 id="notable_conepts"> Notable Concepts </h1>
 <p>
  <ul>
-  <li>Space-time complexitiy is evaluated using Big O notation throughout the entire program (see code).</li>
+  <li>Space-time complexity is evaluated using Big O notation throughout the entire program (see code).</li>
   <li>A Greedy Algorithm was implemented for determining the next package delivery.</li>
   <li>A hash table was implemented for storing the packages.</li>
   <li>Tkinter was used to develop the GUI.</li>
